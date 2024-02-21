@@ -8,4 +8,3 @@ label.show()
 label2 = QLabel("<font color=red size=40>Hello World!</font>")
 label2.show()
 app.exec()
-
